@@ -1,0 +1,1 @@
+I'm here to make sure the bin directory is tracked by git!
